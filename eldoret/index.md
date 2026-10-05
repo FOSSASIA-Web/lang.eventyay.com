@@ -1,4 +1,4 @@
-# Wikimania 2025
+# Wikimania 2026
 
 Please click on of the following links to get to the YouTube stream of the live interpretation.
 
