@@ -39,7 +39,7 @@ permissions:
 env:
   LABEL: needs-screencast # LABEL (1/2)
   REMIND_AFTER_HOURS: "48"
-  CLOSE_AFTER_HOURS: "78"
+  CLOSE_AFTER_HOURS: "72"
 
 jobs:
   # Posts the request as soon as a maintainer adds the label.
